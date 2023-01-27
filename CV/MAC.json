@@ -206,6 +206,12 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer",
+        "Layout Designer / Maquetación"
+      ]
+    },
     "status": "searchingActively"
   }
 }
