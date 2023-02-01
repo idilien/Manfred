@@ -107,6 +107,40 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "My Portfolio",
+          "description": "Mi portfolio donde pueden ver mis proyectos personales",
+          "URL": "https://www.idilien.com",
+          "image": {
+            "alt": "logoportfolio.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/e75f0718-f196-4507-b9a7-6fb6d5ced9a3_logoportfolio.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
