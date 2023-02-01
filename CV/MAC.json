@@ -222,6 +222,27 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Next.js",
+        "startDate": "2022-10-01",
+        "finishDate": "2022-12-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "SSR, SSG, CSR, ISR, Middlewares, Rutas dinámicas, Next API, Next Auth, Material UI."
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Diseño de Interfaces(UI)",
         "startDate": "2022-08-01",
         "finishDate": "2022-09-01",
