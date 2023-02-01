@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -113,8 +112,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -178,6 +176,49 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Frontend Developer",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "ITAcademy",
+          "description": "Bootcamp de ITAcademy de Barcelona Activa\n- HTML, CSS, SASS, JavaScript, React, Git/GitHub\n- Gestión de base de datos en MySQL",
+          "URL": "https://certtun.vottun.com/badgedetail?id=442a1104-88fc-4f66-bee3-4c09f9bf82e4",
+          "image": {
+            "alt": "logoITAcademy.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/01/c54a6b5d-2296-4302-b06c-d49a3dc5f11d_logoitacademy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -208,7 +249,6 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
