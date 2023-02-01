@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -52,23 +51,6 @@
             "challenges": [
               {
                 "description": "- Angular developer\n- Implementation of applications for entrepreneurs\n- Design with MUI, testing, component refactoring"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IT Academy - Barcelona Activa "
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2022-06-01",
-            "finishDate": "2022-07-31",
-            "challenges": [
-              {
-                "description": "- Angular developer\n- Layout with Material-UI\n- Implementation of the \"Business Assistant\" project"
               }
             ]
           }
@@ -130,8 +112,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -211,7 +192,6 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
