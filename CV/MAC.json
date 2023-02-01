@@ -218,6 +218,31 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Diseño de Interfaces(UI)",
+        "startDate": "2022-08-01",
+        "finishDate": "2022-09-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Identificar Diseño inclusivo\nDescubrir diseño accesible\nAprender fundamentos psicológicos del comportamiento humano\nConocer las bases del diseño"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
