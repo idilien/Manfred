@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,7 +13,8 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -146,7 +147,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -349,6 +351,7 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
