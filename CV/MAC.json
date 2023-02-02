@@ -35,6 +35,19 @@
         "topic": "MI grupo favoritos es: Metallica",
         "fact": "Mis canciones favoritas son:\nEnter Sandman\nThe Unforgiven\nThe Hero of the Day\nUntil it Sleeps"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Eloquent JavaScript",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Marijn Haverbeke.",
+            "title": "Author"
+          }
+        ],
+        "summary": "Este es un libro sobre JavaScript, programación y las maravillas de lo digital. \n"
+      }
     ]
   },
   "experience": {
