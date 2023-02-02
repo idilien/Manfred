@@ -235,6 +235,30 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Gestión de base de datos en MySQL",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "ITAcademy",
+          "description": "- Introducción a las bases de datos\n- Instalación de una base de datos\n- Lenguaje SQL\n- Concesión de una base de datos con una web\n- Práctica con programación básica PHP",
+          "image": {
+            "alt": "logoITAcademy.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/02/e251a976-8fe5-4ebc-ab68-18f6c52c6996_logoitacademy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Frontend Developer Angular",
         "startDate": "2022-05-01",
         "institution": {
