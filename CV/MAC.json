@@ -233,6 +233,42 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Frontend Developer Angular",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "ITAcademy",
+          "URL": "https://certtun.vottun.com/badgedetail?id=442a1104-88fc-4f66-bee3-4c09f9bf82e4",
+          "image": {
+            "alt": "logoITAcademy.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/02/0f3bb922-1322-403a-9f94-3b543d88387a_logoitacademy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Frontend Developer Angular",
