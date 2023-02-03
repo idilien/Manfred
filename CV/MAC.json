@@ -253,26 +253,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "React Native",
-        "startDate": "2023-01-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "TypeScript, React Native CLI, Google y Apple maps, cámara, GPS, polylines, hooks."
-        },
-        "linkedCompetences": [
-          {
-            "name": "React Native",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
         "name": "Node.js ",
         "startDate": "2023-01-01",
         "institution": {
@@ -310,6 +290,26 @@
           },
           {
             "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "React Native",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "TypeScript, React Native CLI, Google y Apple maps, cámara, GPS, polylines, hooks."
+        },
+        "linkedCompetences": [
+          {
+            "name": "React Native",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
             "type": "technology"
           }
         ]
