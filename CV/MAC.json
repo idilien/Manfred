@@ -118,23 +118,6 @@
       },
       {
         "organization": {
-          "name": "Zona F Autoescuela "
-        },
-        "roles": [
-          {
-            "name": "Trainer CAP",
-            "startDate": "2010-09-01",
-            "finishDate": "2021-07-31",
-            "challenges": [
-              {
-                "description": "- Creation of agenda and training methodologies\n- Management and administration courses for companies\n- ADR security adviser, for-for DGT"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "DIVAS Technology "
         },
         "roles": [
