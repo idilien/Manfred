@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,15 @@
       "surnames": "Pérez Ruiz",
       "title": "Frontend Developer",
       "description": "Soy desarrollador Frontend💻 con una fuerte pasión por el diseño, tecnología y la innovación.\n\nDespués de varios años en el mundo de la enseñanza, comencé una nueva aventura en ITAcademy,\n reorientando mi carrera al mundo de del desarrollo web, donde estuve aprendiendo\ndurante 9 meses y realicé todos los proyectos necesarios para obtener mi certificación de Frontend Developer\n y donde también tuve la oportunidad de potenciar mis «soft skills»🤝\n\nEstoy interesado en trabajar en proyectos desafiantes donde contribuir con mi esfuerzo, mejorar mis habilidades y superarme, me gusta pensar \nque estas cualidades se reflejan en mis resultados, ya que disfruto mucho de la programación y me emociona el inmenso mundo que \nofrece el desarrollo frontend. \n\nAdemás, disfruto colaborando con equipos donde aprender de mis compañeros, aportar mis ideas y soluciones para alcanzar \nnuestros retos y crear productos increíbles.\n\nMe baso en los principios SOLID, en prestar atención a los detalles y en asegurar que mi código sea fácil de mantener, \nescalable en el futuro y siento que soy capaz de crear código que cumpla con los estándares de calidad🛠️.\n\nActualmente, estoy trabajando duro para mejorar mis habilidades para un perfil Full Stack trasteado con Node en diferentes plataformas de enseñanza \nde forma autodidacta.\n\nIllustrator\nFigma\nSASS\nUI\nReact\nRedux\nNext.js\nTypescript\nNode\nMySQL\nMongoDB\nReact Native\nDocker\n\n\nPueden ver mis proyectos en mi portafolio en: idilien.com",
+      "avatar": {
+        "alt": "photo1.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/03/89770547-06ae-4fa2-b5b1-8dfcddc2810e_photo1.png"
+      },
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -43,6 +48,7 @@
         "authors": [
           {
             "name": "Marijn Haverbeke.",
+            "surnames": "",
             "title": "Author"
           }
         ],
@@ -159,7 +165,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -276,6 +283,7 @@
         "startDate": "2022-05-01",
         "institution": {
           "name": "ITAcademy",
+          "description": "",
           "URL": "https://certtun.vottun.com/badgedetail?id=442a1104-88fc-4f66-bee3-4c09f9bf82e4",
           "image": {
             "alt": "logoITAcademy.jpg",
@@ -422,6 +430,7 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
