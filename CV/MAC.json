@@ -271,6 +271,26 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Node.js ",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Express, Pug, APIs REST, ORMs, Emails, Sockets ,Auth."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Gestión de base de datos en MySQL",
