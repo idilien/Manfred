@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
@@ -48,7 +47,6 @@
         "authors": [
           {
             "name": "Marijn Haverbeke.",
-            "surnames": "",
             "title": "Author"
           }
         ],
@@ -66,10 +64,36 @@
           {
             "name": "Frontend Developer",
             "startDate": "2022-06-01",
-            "finishDate": "2022-07-31",
+            "finishDate": "2022-08-01",
             "challenges": [
               {
-                "description": "- Angular developer\n- Implementation of applications for entrepreneurs\n- Design with MUI, testing, component refactoring"
+                "description": "- Desarrollo en equipo de Angular & Java, plataforma para emprendedores.\n- Diseño con SASS y MUI, aplicación intuitiva y funcional para el usuario.\n- Uso de metodologías ágiles SCRUM, control de versiones con Git/GitHub."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
@@ -165,8 +189,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -295,7 +318,6 @@
         "startDate": "2022-05-01",
         "institution": {
           "name": "ITAcademy",
-          "description": "",
           "URL": "https://certtun.vottun.com/badgedetail?id=442a1104-88fc-4f66-bee3-4c09f9bf82e4",
           "image": {
             "alt": "logoITAcademy.jpg",
@@ -442,7 +464,6 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
