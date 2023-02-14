@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona"
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -27,7 +28,7 @@
       },
       {
         "type": "other",
-        "URL": "https://idilien.com"
+        "URL": "https://javierruiz.dev"
       },
       {
         "type": "linkedin",
@@ -47,6 +48,7 @@
         "authors": [
           {
             "name": "Marijn Haverbeke.",
+            "surnames": "",
             "title": "Author"
           }
         ],
@@ -172,7 +174,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -321,6 +324,7 @@
         "startDate": "2022-05-01",
         "institution": {
           "name": "ITAcademy",
+          "description": "",
           "URL": "https://certtun.vottun.com/badgedetail?id=442a1104-88fc-4f66-bee3-4c09f9bf82e4",
           "image": {
             "alt": "logoITAcademy.jpg",
@@ -467,6 +471,7 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
